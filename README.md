@@ -65,6 +65,9 @@ python main.py
 
 This will execute the analysis and generate visualizations of the results.
 
+![Survival rate by Gender](screenshots/Screenshot 2024-10-22 142956.png)
+
+
 **Output**
 
 The analysis includes various outputs, such as:
