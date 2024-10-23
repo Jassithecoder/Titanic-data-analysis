@@ -68,6 +68,8 @@ This will execute the analysis and generate visualizations of the results.
 )
 
 ![Survival by Age](https://github.com/user-attachments/assets/fa62b122-0151-42d1-b1e5-003cbea0b975)
+![Feature Corelation Heatmap](https://github.com/user-attachments/assets/742d659e-d388-40a3-b402-3e3d05b3fa2b)
+
 
 **Output**
 
