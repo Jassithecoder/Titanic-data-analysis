@@ -64,7 +64,8 @@ python main.py
 ```
 
 This will execute the analysis and generate visualizations of the results.
-![Survival Rate by Gender](https://github.com/user-attachments/assets/cb0f3575-3c4a-494d-98f5-21001f44ed0b)
+![Survival Rate by Gender](![Survival Rate by Gender](https://github.com/user-attachments/assets/2500b8da-0a6c-4e9b-b1fd-4f0b7f52dea2)
+)
 
 
 
